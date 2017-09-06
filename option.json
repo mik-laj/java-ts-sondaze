@@ -1,0 +1,52 @@
+[
+	{
+		"poll_id" : 14,
+		"id" : 27,
+		"text" : "444"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 28,
+		"text" : "Polska"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 29,
+		"text" : "Niemcy"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 30,
+		"text" : "Rosja"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 31,
+		"text" : "Ukraina"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 32,
+		"text" : "Czechy"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 33,
+		"text" : "Holandia"
+	}, 
+	{
+		"poll_id" : 3,
+		"id" : 34,
+		"text" : "Inne"
+	}, 
+	{
+		"poll_id" : 2,
+		"id" : 35,
+		"text" : "Koty"
+	}, 
+	{
+		"poll_id" : 2,
+		"id" : 36,
+		"text" : "Koteczki"
+	}
+]

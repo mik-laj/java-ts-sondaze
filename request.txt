@@ -1,0 +1,8 @@
+GET / HTTP/1.1
+Host: rzodkiewka.tk
+User-Agent: curl/7.47.0
+Accept: */*
+Content-Length: 3
+Content-Type: application/x-www-form-urlencoded
+
+1=1
